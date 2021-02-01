@@ -1,0 +1,48 @@
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.exe
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.deps.json
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.runtimeconfig.json
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.dll
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\bin\Debug\net5.0\ref\A1-TicketingSystem.dll
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.pdb
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.AssemblyInfo.cs
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.dll
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\ref\A1-TicketingSystem.dll
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.pdb
+C:\Users\Owner\Desktop\.Net AssignmentsLabs\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.genruntimeconfig.cache
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.exe
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.deps.json
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.runtimeconfig.json
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.dll
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\bin\Debug\net5.0\ref\A1-TicketingSystem.dll
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.pdb
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.AssemblyInfo.cs
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.dll
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\ref\A1-TicketingSystem.dll
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.pdb
+C:\Users\Owner\Desktop\DotNetDb\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.genruntimeconfig.cache
+C:\Users\Owner\Desktop\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.exe
+C:\Users\Owner\Desktop\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.deps.json
+C:\Users\Owner\Desktop\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.runtimeconfig.json
+C:\Users\Owner\Desktop\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.dll
+C:\Users\Owner\Desktop\A1-TicketingSystem\bin\Debug\net5.0\ref\A1-TicketingSystem.dll
+C:\Users\Owner\Desktop\A1-TicketingSystem\bin\Debug\net5.0\A1-TicketingSystem.pdb
+C:\Users\Owner\Desktop\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.AssemblyInfo.cs
+C:\Users\Owner\Desktop\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.dll
+C:\Users\Owner\Desktop\A1-TicketingSystem\obj\Debug\net5.0\ref\A1-TicketingSystem.dll
+C:\Users\Owner\Desktop\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.pdb
+C:\Users\Owner\Desktop\A1-TicketingSystem\obj\Debug\net5.0\A1-TicketingSystem.genruntimeconfig.cache
